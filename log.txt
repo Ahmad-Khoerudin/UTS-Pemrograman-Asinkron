@@ -1,0 +1,200 @@
+[2025-04-28 20:46:15] https://www.google.com - Status: 200
+[2025-04-28 20:46:15] https://www.github.com - Status: 200
+[2025-04-28 20:46:15] https://www.python.org - Status: 200
+[2025-04-28 20:46:15] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:46:15] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:46:15] https://www.example.com - Status: 200
+[2025-04-28 20:46:15] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:46:15] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:46:26] https://www.google.com - Status: 200
+[2025-04-28 20:46:26] https://www.github.com - Status: 200
+[2025-04-28 20:46:26] https://www.python.org - Status: 200
+[2025-04-28 20:46:26] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:46:26] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:46:26] https://www.example.com - Status: 200
+[2025-04-28 20:46:26] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:46:26] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:46:37] https://www.google.com - Status: 200
+[2025-04-28 20:46:37] https://www.github.com - Status: 200
+[2025-04-28 20:46:37] https://www.python.org - Status: 200
+[2025-04-28 20:46:37] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:46:37] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:46:37] https://www.example.com - Status: 200
+[2025-04-28 20:46:37] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:46:37] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:46:47] https://www.google.com - Status: 200
+[2025-04-28 20:46:47] https://www.github.com - Status: 200
+[2025-04-28 20:46:47] https://www.python.org - Status: 200
+[2025-04-28 20:46:47] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:46:47] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:46:47] https://www.example.com - Status: 200
+[2025-04-28 20:46:47] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:46:47] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:46:58] https://www.google.com - Status: 200
+[2025-04-28 20:46:58] https://www.github.com - Status: 200
+[2025-04-28 20:46:58] https://www.python.org - Status: 200
+[2025-04-28 20:46:58] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:46:58] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:46:58] https://www.example.com - Status: 200
+[2025-04-28 20:46:58] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:46:58] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:47:08] https://www.google.com - Status: 200
+[2025-04-28 20:47:08] https://www.github.com - Status: 200
+[2025-04-28 20:47:08] https://www.python.org - Status: 200
+[2025-04-28 20:47:08] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:47:08] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:47:08] https://www.example.com - Status: 200
+[2025-04-28 20:47:08] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:47:08] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:47:19] https://www.google.com - Status: 200
+[2025-04-28 20:47:19] https://www.github.com - Status: 200
+[2025-04-28 20:47:19] https://www.python.org - Status: 200
+[2025-04-28 20:47:19] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:47:19] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:47:19] https://www.example.com - Status: 200
+[2025-04-28 20:47:19] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:47:19] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:47:30] https://www.google.com - Status: 200
+[2025-04-28 20:47:30] https://www.github.com - Status: 200
+[2025-04-28 20:47:30] https://www.python.org - Status: 200
+[2025-04-28 20:47:30] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:47:30] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:47:30] https://www.example.com - Status: 200
+[2025-04-28 20:47:30] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:47:30] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:47:40] https://www.google.com - Status: 200
+[2025-04-28 20:47:40] https://www.github.com - Status: 200
+[2025-04-28 20:47:40] https://www.python.org - Status: 200
+[2025-04-28 20:47:40] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:47:40] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:47:40] https://www.example.com - Status: 200
+[2025-04-28 20:47:40] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:47:40] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:47:51] https://www.google.com - Status: 200
+[2025-04-28 20:47:51] https://www.github.com - Status: 200
+[2025-04-28 20:47:51] https://www.python.org - Status: 200
+[2025-04-28 20:47:51] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:47:51] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:47:51] https://www.example.com - Status: 200
+[2025-04-28 20:47:51] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:47:51] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:02] https://www.google.com - Status: 200
+[2025-04-28 20:48:02] https://www.github.com - Status: 200
+[2025-04-28 20:48:02] https://www.python.org - Status: 200
+[2025-04-28 20:48:02] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:02] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:02] https://www.example.com - Status: 200
+[2025-04-28 20:48:02] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:02] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:12] https://www.google.com - Status: 200
+[2025-04-28 20:48:12] https://www.github.com - Status: 200
+[2025-04-28 20:48:12] https://www.python.org - Status: 200
+[2025-04-28 20:48:12] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:12] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:12] https://www.example.com - Status: 200
+[2025-04-28 20:48:12] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:12] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:23] https://www.google.com - Status: 200
+[2025-04-28 20:48:23] https://www.github.com - Status: 200
+[2025-04-28 20:48:23] https://www.python.org - Status: 200
+[2025-04-28 20:48:23] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:23] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:23] https://www.example.com - Status: 200
+[2025-04-28 20:48:23] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:23] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:34] https://www.google.com - Status: 200
+[2025-04-28 20:48:34] https://www.github.com - Status: 200
+[2025-04-28 20:48:34] https://www.python.org - Status: 200
+[2025-04-28 20:48:34] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:34] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:34] https://www.example.com - Status: 200
+[2025-04-28 20:48:34] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:34] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:45] https://www.google.com - Status: 200
+[2025-04-28 20:48:45] https://www.github.com - Status: 200
+[2025-04-28 20:48:45] https://www.python.org - Status: 200
+[2025-04-28 20:48:45] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:45] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:45] https://www.example.com - Status: 200
+[2025-04-28 20:48:45] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:45] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:48:55] https://www.google.com - Status: 200
+[2025-04-28 20:48:55] https://www.github.com - Status: 200
+[2025-04-28 20:48:55] https://www.python.org - Status: 200
+[2025-04-28 20:48:55] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:48:55] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:48:55] https://www.example.com - Status: 200
+[2025-04-28 20:48:55] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:48:55] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:06] https://www.google.com - Status: 200
+[2025-04-28 20:49:06] https://www.github.com - Status: 200
+[2025-04-28 20:49:06] https://www.python.org - Status: 200
+[2025-04-28 20:49:06] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:06] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:06] https://www.example.com - Status: 200
+[2025-04-28 20:49:06] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:06] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:17] https://www.google.com - Status: 200
+[2025-04-28 20:49:17] https://www.github.com - Status: 200
+[2025-04-28 20:49:17] https://www.python.org - Status: 200
+[2025-04-28 20:49:17] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:17] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:17] https://www.example.com - Status: 200
+[2025-04-28 20:49:17] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:17] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:27] https://www.google.com - Status: 200
+[2025-04-28 20:49:27] https://www.github.com - Status: 200
+[2025-04-28 20:49:27] https://www.python.org - Status: 200
+[2025-04-28 20:49:27] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:27] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:27] https://www.example.com - Status: 200
+[2025-04-28 20:49:27] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:27] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:38] https://www.google.com - Status: 200
+[2025-04-28 20:49:38] https://www.github.com - Status: 200
+[2025-04-28 20:49:38] https://www.python.org - Status: 200
+[2025-04-28 20:49:38] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:38] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:38] https://www.example.com - Status: 200
+[2025-04-28 20:49:38] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:38] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:49] https://www.google.com - Status: 200
+[2025-04-28 20:49:49] https://www.github.com - Status: 200
+[2025-04-28 20:49:49] https://www.python.org - Status: 200
+[2025-04-28 20:49:49] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:49] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:49] https://www.example.com - Status: 200
+[2025-04-28 20:49:49] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:49] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:49:59] https://www.google.com - Status: 200
+[2025-04-28 20:49:59] https://www.github.com - Status: 200
+[2025-04-28 20:49:59] https://www.python.org - Status: 200
+[2025-04-28 20:49:59] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:49:59] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:49:59] https://www.example.com - Status: 200
+[2025-04-28 20:49:59] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:49:59] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:50:10] https://www.google.com - Status: 200
+[2025-04-28 20:50:10] https://www.github.com - Status: 200
+[2025-04-28 20:50:10] https://www.python.org - Status: 200
+[2025-04-28 20:50:10] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:50:10] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:50:10] https://www.example.com - Status: 200
+[2025-04-28 20:50:10] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:50:10] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:50:21] https://www.google.com - Status: 200
+[2025-04-28 20:50:21] https://www.github.com - Status: 200
+[2025-04-28 20:50:21] https://www.python.org - Status: 200
+[2025-04-28 20:50:21] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:50:21] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:50:21] https://www.example.com - Status: 200
+[2025-04-28 20:50:21] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:50:21] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+[2025-04-28 20:50:31] https://www.google.com - Status: 200
+[2025-04-28 20:50:31] https://www.github.com - Status: 200
+[2025-04-28 20:50:31] https://www.python.org - Status: 200
+[2025-04-28 20:50:31] https://www.openai.com - Status: 403
+ALERT: [2025-04-28 20:50:31] https://www.openai.com - SITE DOWN! Status: 403
+[2025-04-28 20:50:31] https://www.example.com - Status: 200
+[2025-04-28 20:50:31] https://www.thiswebsitedoesnotexistforsure.com - Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
+ALERT: [2025-04-28 20:50:31] https://www.thiswebsitedoesnotexistforsure.com - SITE DOWN! Status: Error: Cannot connect to host www.thiswebsitedoesnotexistforsure.com:443 ssl:default [getaddrinfo failed]
